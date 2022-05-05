@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\contact\Mail;
+namespace Rnfi\contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

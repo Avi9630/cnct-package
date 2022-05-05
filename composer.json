@@ -1,20 +1,14 @@
 {
-    "name": "bitfumes/contact",
+    "name": "rnfi/contact",
     "description": "This will send an email and save contact details in database.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Avinash",
-            "email": "avi9630yadav@gmail.com"
+            "email": "avi@rnfi.in"
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    
-    "autoload": {
-        "psr-4": {
-            "Bitfumes\\contact\\": "src/"
-        }
-    }
+    "require": {}
 }

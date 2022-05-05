@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\contact\Models;
+namespace Rnfi\contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

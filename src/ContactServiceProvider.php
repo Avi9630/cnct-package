@@ -1,5 +1,5 @@
 <?php
-namespace Bitfumes\contact;
+namespace Rnfi\contact;
 
 use Illuminate\Support\ServiceProvider;
 
